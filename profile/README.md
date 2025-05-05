@@ -1,4 +1,4 @@
-# 🌾 1K Rice Genome Project – Philippines
+# 🌾 1K1 Rice Genome Project – Philippines
 
 **A national genomics initiative to sequence and analyze 1,001 traditional Philippine rice varieties to support breeding, food security, and sustainable agriculture.**
 
