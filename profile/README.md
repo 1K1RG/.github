@@ -29,5 +29,5 @@ The **1K Rice Genome Project – Philippines** is led by the **Philippine Genome
 
 ---
 
-## 🗂 Repository Contents (if this is `1k-rice-scripts`)
+
 
