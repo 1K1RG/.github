@@ -1,0 +1,33 @@
+# 🌾 1K Rice Genome Project – Philippines
+
+**A national genomics initiative to sequence and analyze 1,001 traditional Philippine rice varieties to support breeding, food security, and sustainable agriculture.**
+
+---
+
+## 📘 Project Overview
+
+The **1K Rice Genome Project – Philippines** is led by the **Philippine Genome Center (PGC)** in partnership with **UP Los Baños**, **DA-PhilRice**, and the **International Rice Research Institute (IRRI)**. Funded by **DOST-PCAARRD**, this project aims to uncover the genetic diversity of local rice landraces and apply genomic data to accelerate crop improvement programs.
+
+### 🎯 Goals
+
+- Sequence and analyze 1,001 Philippine rice accessions
+- Identify genes linked to yield, climate resilience, and nutritional traits
+- Develop a reference genome for the aromatic rice variety *Dinorado*
+- Build tools and databases for breeders and researchers
+- Support national food security through genomics-informed breeding
+
+---
+
+## 🧰 Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [`1k-rice-scripts`](https://github.com/your-org/1k-rice-scripts) | Data preprocessing, analysis pipelines, and notebooks |
+| [`1k-rice-web-interface`](https://github.com/your-org/1k-rice-web-interface) | Web platform for genotype search and SNP visualization |
+| [`1k-rice-sample-data`](https://github.com/your-org/1k-rice-sample-data) | Cleaned sample datasets and accession metadata |
+| [`1k-rice-deliverables`](https://github.com/your-org/1k-rice-deliverables) | Quarterly reports, presentations, and documentation |
+
+---
+
+## 🗂 Repository Contents (if this is `1k-rice-scripts`)
+
