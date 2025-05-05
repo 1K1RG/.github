@@ -22,9 +22,9 @@ The **1K Rice Genome Project – Philippines** is led by the **Philippine Genome
 
 | Repository | Description |
 |------------|-------------|
-| [`1k-rice-scripts`](https://github.com/your-org/1k-rice-scripts) | Data preprocessing, analysis pipelines, and notebooks |
-| [`1k-rice-web-interface`](https://github.com/your-org/1k-rice-web-interface) | Web platform for genotype search and SNP visualization |
-| [`1k-rice-sample-data`](https://github.com/your-org/1k-rice-sample-data) | Cleaned sample datasets and accession metadata |
+| [`Scripts`](https://github.com/your-org/1k-rice-scripts) | Data preprocessing, analysis pipelines, and notebooks |
+| [`1kRG-SNPSeek`](https://github.com/your-org/1k-rice-web-interface) | Web platform for genotype search and SNP visualization |
+| [`Sample-Data`](https://github.com/1KRG/1kRG-sample) | Cleaned sample datasets and accession metadata |
 | [`1k-rice-deliverables`](https://github.com/your-org/1k-rice-deliverables) | Quarterly reports, presentations, and documentation |
 
 ---
