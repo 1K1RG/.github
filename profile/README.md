@@ -26,7 +26,7 @@ The **1K Rice Genome Project – Philippines** is led by the **Philippine Genome
 | [`1k1RG-datasource`](https://github.com/1K1RG/1k1RG-datasource) | Datasource, Use case queries
 | [`Scripts`](https://github.com/1KRG/1kRG-Scripts) | Data preprocessing, analysis pipelines, and notebooks |
 | [`Sample-Data`](https://1k1rg.github.io/1k1RG-sample/) | Cleaned sample datasets and accession metadata |
-| [`Yearly/Quarterly Deliverables`](https://1k1rg.github.io/deliverablesAndDocs/) | Quarterly reports, presentations, and documentation |
+| [`Yearly/Quarterly Deliverables`](https://1k1rg.github.io/1K1RG-Documentations/) | Quarterly reports, presentations, and documentation |
 
 ---
 
